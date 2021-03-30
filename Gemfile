@@ -60,3 +60,4 @@ gem 'slim-rails'
 gem 'bootstrap'
 
 gem 'rails_autolink'
+gem 'ransack'
